@@ -1,4 +1,4 @@
-## [Bite 45. Keep a queue of last n items](https://codechalleng.es/bites/45/)
+## [Bite 46. You are a programmer! Code Fizz Buzz](https://codechalleng.es/bites/46/)
 
 Good luck and please share you code in the Bite forums upon completion.
 
