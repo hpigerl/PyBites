@@ -1,4 +1,4 @@
-## [Bite 44. License key generator](https://codechalleng.es/bites/44/)
+## [Bite 45. Keep a queue of last n items](https://codechalleng.es/bites/45/)
 
 Good luck and please share you code in the Bite forums upon completion.
 
