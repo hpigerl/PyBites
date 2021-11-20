@@ -1,4 +1,4 @@
-## [Bite 46. You are a programmer! Code Fizz Buzz](https://codechalleng.es/bites/46/)
+## [Bite 54. Nicer formatting of a poem or text](https://codechalleng.es/bites/54/)
 
 Good luck and please share you code in the Bite forums upon completion.
 
